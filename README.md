@@ -6,10 +6,10 @@
 [![Node.js](https://img.shields.io/badge/Runtime-Node.js-green.svg)](https://nodejs.org/)
 
 ### 💻 App Interface Preview  
-> ☀ Light Theme
-![Light Theme](AI tool simulator light theme.png)
-> 🌙 Dark Theme
-![Dark Theme](AI tool simulator dark theme.png)
+> ☀ Light Theme  
+![Light Theme](AI%20tool%20simulator%20light%20theme.png)
+> 🌙 Dark Theme  
+![Dark Theme](AI%20tool%20simulator%20dark%20theme.png)
 
 ## 🚀 Features
 
