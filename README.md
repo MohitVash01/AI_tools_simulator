@@ -7,9 +7,9 @@
 
 ### 💻 App Interface Preview  
 > ☀ Light Theme
-AI tool simulator light theme.png
+![Light Theme](AI tool simulator light theme.png)
 > 🌙 Dark Theme
-AI tool simulator dark theme.png
+![Dark Theme](AI tool simulator dark theme.png)
 
 ## 🚀 Features
 
