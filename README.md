@@ -5,9 +5,9 @@
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Runtime-Node.js-green.svg)](https://nodejs.org/)
 
-### 💻 App Interface Preview  
+### 💻 App Interface Preview   
 > ☀ Light Theme  
-![Light Theme](light.png)
+![Light Theme](AI%20tool%20simulator%20light%20theme.png)
 > 🌙 Dark Theme  
 ![Dark Theme](AI%20tool%20simulator%20dark%20theme.png)
 
